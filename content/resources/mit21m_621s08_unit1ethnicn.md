@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: 'Writing assignment 1: Ethnic Notions response'
 uid: 8951c190-38ad-fb67-4140-965f9c60f669

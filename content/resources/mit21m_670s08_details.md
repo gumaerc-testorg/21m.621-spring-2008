@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 5cb13597-b657-d441-c385-3e4b5f38eaec
 resourcetype: Document
 title: 'Ses 1: Guest Artist Workshop, Melissa Blanco-Borelli'
 uid: 897ec8e8-f15a-cb4d-5bf5-eadc7ea45c99

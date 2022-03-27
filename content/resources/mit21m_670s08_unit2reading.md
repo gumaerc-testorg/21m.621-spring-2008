@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: 'Writing assignment 3: "Reading the Black Dancing Body" lecture series responses'
 uid: 79037faa-5f78-1b37-881f-ec6cfb328105

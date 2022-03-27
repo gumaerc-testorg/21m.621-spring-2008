@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: Performance possibilities for Run Crew/Participation on the MIT Campus
 uid: e26b232f-58c1-9fd9-3fe5-ef4387af8986

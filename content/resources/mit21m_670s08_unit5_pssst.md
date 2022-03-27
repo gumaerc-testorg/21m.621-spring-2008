@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: 'Writing assignment 5: Pssst... research analysis '
 uid: f300cbc5-71b1-7141-a328-168d84bcf658

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: 'Performance assignment 3: Secrecy and Gender'
 uid: 1a1a564c-6a15-6b17-0922-f4eb3d0a883d

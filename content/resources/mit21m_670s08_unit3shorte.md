@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e41d4fd0-297f-4a68-b16d-e8524a325a8a
 resourcetype: Document
 title: 'Writing assignment 4: Short Eyes character analysis'
 uid: ee5054c8-36df-58d2-dffb-344d8d9cd5f0
