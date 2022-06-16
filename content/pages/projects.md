@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the final project assignment for
+  the course. Also included are example student projects from Spring 2004.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
