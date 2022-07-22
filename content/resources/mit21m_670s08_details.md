@@ -4,6 +4,7 @@ description: ''
 file: /courses/21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008/897ec8e8f15acb4d5bf5eadc7ea45c99_MIT21M_670S08_details.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
