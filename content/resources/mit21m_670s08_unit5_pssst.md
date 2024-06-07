@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008/f300cbc571b17141a328168d84bcf658_MIT21M_670S08_unit5_pssst.pdf
+file_size: 118383
 file_type: application/pdf
 learning_resource_types:
 - Assignments
