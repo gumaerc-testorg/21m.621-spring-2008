@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008/897ec8e8f15acb4d5bf5eadc7ea45c99_MIT21M_670S08_details.pdf
+file: /courses/21m-621-theater-and-cultural-diversity-in-the-u-s-spring-2008/897ec8e8f15acb4d5bf5eadc7ea45c99_MIT21M_670S08_details.pdf
 file_size: 111637
 file_type: application/pdf
 learning_resource_types: []
